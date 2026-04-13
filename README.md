@@ -6,7 +6,7 @@
   <title>Before You Start</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2family=Cinzel:wght@600;700&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
   <style>
     :root {
       --bg: #12081d;
@@ -519,17 +519,17 @@
 
       <div class="path-gallery">
         <div class="image-card">
-          <img src="file:///F:/The Creator Plug/453058e2663748ed88bf5d8becc0d1cd7244bd64b0344a6297b19a8d3ccf9a1a.jpg" alt="Creator Path">
+          <img src="file:///F:/The%20Creator%20Plug/453058e2663748ed88bf5d8becc0d1cd7244bd64b0344a6297b19a8d3ccf9a1a.jpg" alt="Creator Path">
           <h3>Creator Path Visual</h3>
           <p>Use this path if your main goal is to build attention, grow your following, and turn content into income.</p>
         </div>
         <div class="image-card">
-          <img src="file:///F:/The Creator Plug/92be4b7c84cc406eab79412c543ed247653a8007f00649888a7ea486702d5259-md.jpg" alt="Digital Product Path">
+          <img src="file:///F:/The%20Creator%20Plug/92be4b7c84cc406eab79412c543ed247653a8007f00649888a7ea486702d5259-md.jpg" alt="Digital Product Path">
           <h3>Digital Product Path Visual</h3>
           <p>Use this path if you want to create assets once and keep selling them repeatedly over time.</p>
         </div>
         <div class="image-card">
-          <img src="file:///F:/The Creator Plug/27e919353aad468299c5a5e2ae4f137f50dffa6667fe4ad0bbfb4905fe1f2d77-md.jpg" alt="E-Commerce Service Path">
+          <img src="file:///F:/The%20Creator%20Plug/27e919353aad468299c5a5e2ae4f137f50dffa6667fe4ad0bbfb4905fe1f2d77-md.jpg" alt="E-Commerce Service Path">
           <h3>Ecommerce / Service Path Visual</h3>
           <p>Use this path if you want to build a product-based or service-based online business.</p>
         </div>
