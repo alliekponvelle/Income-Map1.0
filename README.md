@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Before You Start</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2family=Cinzel:wght@600;700&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <style>
-    :root {
-      --bg: #12081d;
-      --bg-soft: #1c0d2d;
-      --panel: rgba(248, 239, 221, 0.96);
-      --panel-soft: rgba(255, 248, 234, 0.84);
-      --text: #2e1a40;
-      --muted: #66507b;
-      --purple: #71419b;
-      --purple-deep: #29123f;
-      --gold: #d7b15c;
-      --gold-deep: #9b7427;
-      --line: rgba(113, 65, 155, 0.13);
-      --shadow: 0 24px 60px rgba(8, 2, 15, 0.35);
-      --radius: 28px;
-    }
+
 
     * { box-sizing: border-box; }
     html { scroll-behavior: smooth; }
